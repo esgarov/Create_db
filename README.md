@@ -16,7 +16,7 @@ The script does the following:
 
 Usage
 
-bash: python find_space.py /path/to/your/directory
+bash: python create_db.py /path/to/your/directory
 
 Requirements
 
