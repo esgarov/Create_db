@@ -23,4 +23,4 @@ The script works by opening an SQLite database named `symBlobsMpk.db` and fetchi
 Make sure you have Python installed on your machine and run the script using the command:
 
 ```sh
-python3 script_name.py
+python3 missingBMS.py
