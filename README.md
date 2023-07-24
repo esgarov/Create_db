@@ -1,8 +1,6 @@
 # Create_db
 
-SymBlobsMpk
-
-SymBlobsMpk is a Python script that creates an SQLite database (symBlobsMpk.db) and uses it to store and analyze information about files in a directory and its subdirectories.
+create_db.py is a Python script that creates an SQLite database (symBlobsMpk.db) and uses it to store and analyze information about files in a directory and its subdirectories.
 
 The script does the following:
 
